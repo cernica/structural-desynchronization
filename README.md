@@ -33,7 +33,7 @@ This behavior was observed in real-world integrations, including:
 - Email systems (fabricated messages in summaries)  
 - Issue tracking systems (fabricated tickets and states)  
 
-An attacker controlling content within a single data field can influence how entire datasets are interpreted by the model.
+An attacker controlling content within a single data field can influence how entire datasets are reconstructed and interpreted by the model.
 
 ---
 
@@ -56,11 +56,11 @@ https://doi.org/10.5281/zenodo.19625238
 
 This repository intentionally focuses on the conceptual model and high-level behavior.
 
-Detailed real-world examples and experimental results will be shared at a later stage.
-
-## Citation
+Detailed real-world scenarios and extended experimental results will be shared at a later stage.
 
 ---
+
+## Citation
 
 ```bibtex
 @misc{cernica2026structural,
