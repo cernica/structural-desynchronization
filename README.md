@@ -52,7 +52,15 @@ https://doi.org/10.5281/zenodo.19625238
 
 ---
 
+## Note
+
+This repository intentionally focuses on the conceptual model and high-level behavior.
+
+Detailed real-world examples and experimental results will be shared at a later stage.
+
 ## Citation
+
+---
 
 ```bibtex
 @misc{cernica2026structural,
